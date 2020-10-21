@@ -34,7 +34,7 @@
             <nav class="gnb">
                <ul class="gnb_top">                   
 	               <li>
-						<a href="index.jsp" class="logo" ><img src="./img/img_logo2.png" alt="logo"></a>
+						<a href="admin.jsp" class="logo" ><img src="./img/img_logo2.png" alt="logo"></a>
 					</li>
 					<li class="logout_btn">	
 						<a href="admin.jsp" ><img src="./img/icon_logout.png">LOGOUT</a>				         
