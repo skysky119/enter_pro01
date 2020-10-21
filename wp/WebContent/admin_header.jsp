@@ -20,7 +20,7 @@
 	if(session.getAttribute("id") != "admin") {
 %>
 <script>
-	alert("관리자로 하지 않으셨습니다. 현재 페이지는 관리자의 로그인이 필요합니다.");
+	alert("관리자로 로그인하지 않으셨습니다. 현재 페이지는 관리자의 로그인이 필요합니다.");
 	history.go(-1);
 </script>
 <% 	
